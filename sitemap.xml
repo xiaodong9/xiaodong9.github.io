@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://xiaodong9.github.io/2023/05/15/JavaScript%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/1.%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%9A%84JavaScript/</loc>
+    <loc>https://xiaodong9.github.io/categories/index.html</loc>
     
     <lastmod>2023-05-15</lastmod>
     
@@ -11,9 +11,9 @@
   </url>
   
   <url>
-    <loc>https://xiaodong9.github.io/categories/index.html</loc>
+    <loc>https://xiaodong9.github.io/2023/05/15/JavaScript%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/1.%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%9A%84JavaScript/</loc>
     
-    <lastmod>2023-05-14</lastmod>
+    <lastmod>2023-05-15</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
